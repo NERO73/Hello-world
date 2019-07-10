@@ -1,2 +1,5 @@
 # Hello-world
-My first repository
+
+Hi, i am NERO
+
+I learn HTML and CSS, and I will learn JavaScript soon/
